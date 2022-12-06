@@ -12,6 +12,6 @@ public class step2 {
         C = in.nextInt();
         D = in.nextInt();
         int DIFERENCA = (A*B-C*D);
-        System.out.println(DIFERENCA);
+        System.out.println("DIFERENCA = "+DIFERENCA);
     }
 }
